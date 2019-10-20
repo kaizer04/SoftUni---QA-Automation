@@ -1,0 +1,15 @@
+D:\SoftUni\QAAutomation\Sept-2019\02. Selenium-Basics\Homework\Homework\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\SoftUni\QAAutomation\Sept-2019\02. Selenium-Basics\Homework\Homework\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\SoftUni\QAAutomation\Sept-2019\02. Selenium-Basics\Homework\Homework\bin\Debug\netcoreapp2.2\nunit.engine.dll
+D:\SoftUni\QAAutomation\Sept-2019\02. Selenium-Basics\Homework\Homework\bin\Debug\netcoreapp2.2\nunit.engine.api.dll
+D:\SoftUni\QAAutomation\Sept-2019\02. Selenium-Basics\Homework\Homework\bin\Debug\netcoreapp2.2\Homework.deps.json
+D:\SoftUni\QAAutomation\Sept-2019\02. Selenium-Basics\Homework\Homework\bin\Debug\netcoreapp2.2\Homework.runtimeconfig.json
+D:\SoftUni\QAAutomation\Sept-2019\02. Selenium-Basics\Homework\Homework\bin\Debug\netcoreapp2.2\Homework.runtimeconfig.dev.json
+D:\SoftUni\QAAutomation\Sept-2019\02. Selenium-Basics\Homework\Homework\bin\Debug\netcoreapp2.2\Homework.dll
+D:\SoftUni\QAAutomation\Sept-2019\02. Selenium-Basics\Homework\Homework\bin\Debug\netcoreapp2.2\Homework.pdb
+D:\SoftUni\QAAutomation\Sept-2019\02. Selenium-Basics\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.csproj.CoreCompileInputs.cache
+D:\SoftUni\QAAutomation\Sept-2019\02. Selenium-Basics\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.AssemblyInfoInputs.cache
+D:\SoftUni\QAAutomation\Sept-2019\02. Selenium-Basics\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.AssemblyInfo.cs
+D:\SoftUni\QAAutomation\Sept-2019\02. Selenium-Basics\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.dll
+D:\SoftUni\QAAutomation\Sept-2019\02. Selenium-Basics\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.pdb
+D:\SoftUni\QAAutomation\Sept-2019\02. Selenium-Basics\Homework\Homework\obj\Debug\netcoreapp2.2\Homework.csprojAssemblyReference.cache

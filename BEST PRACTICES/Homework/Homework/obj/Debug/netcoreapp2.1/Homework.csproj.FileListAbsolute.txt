@@ -1,0 +1,17 @@
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\bin\Debug\netcoreapp2.1\Homework.deps.json
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\bin\Debug\netcoreapp2.1\Homework.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\obj\Debug\netcoreapp2.1\Homework.csprojAssemblyReference.cache
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\obj\Debug\netcoreapp2.1\Homework.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\obj\Debug\netcoreapp2.1\Homework.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\obj\Debug\netcoreapp2.1\Homework.AssemblyInfo.cs
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\bin\Debug\netcoreapp2.1\testhost.exe
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\bin\Debug\netcoreapp2.1\testhost.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\bin\Debug\netcoreapp2.1\Homework.runtimeconfig.json
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\bin\Debug\netcoreapp2.1\Homework.runtimeconfig.dev.json
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\bin\Debug\netcoreapp2.1\nunit.engine.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\bin\Debug\netcoreapp2.1\Homework.pdb
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\obj\Debug\netcoreapp2.1\Homework.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\BEST PRACTICES\Homework\Homework\obj\Debug\netcoreapp2.1\Homework.pdb

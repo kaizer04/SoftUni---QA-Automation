@@ -1,0 +1,17 @@
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\bin\Debug\netcoreapp2.1\Interaction.Tests.deps.json
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\bin\Debug\netcoreapp2.1\Interaction.Tests.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\obj\Debug\netcoreapp2.1\Interaction.Tests.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\obj\Debug\netcoreapp2.1\Interaction.Tests.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\obj\Debug\netcoreapp2.1\Interaction.Tests.AssemblyInfo.cs
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\bin\Debug\netcoreapp2.1\testhost.exe
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\bin\Debug\netcoreapp2.1\testhost.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\bin\Debug\netcoreapp2.1\Interaction.Tests.runtimeconfig.json
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\bin\Debug\netcoreapp2.1\Interaction.Tests.runtimeconfig.dev.json
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\obj\Debug\netcoreapp2.1\Interaction.Tests.csprojAssemblyReference.cache
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\bin\Debug\netcoreapp2.1\nunit.engine.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\bin\Debug\netcoreapp2.1\Interaction.Tests.pdb
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\obj\Debug\netcoreapp2.1\Interaction.Tests.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumAdvanced\Interaction.Tests\obj\Debug\netcoreapp2.1\Interaction.Tests.pdb

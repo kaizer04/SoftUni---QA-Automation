@@ -1,0 +1,15 @@
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumBasics\QAAutomation\bin\Debug\netcoreapp2.1\QAAutomation.deps.json
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumBasics\QAAutomation\bin\Debug\netcoreapp2.1\QAAutomation.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumBasics\QAAutomation\obj\Debug\netcoreapp2.1\QAAutomation.csprojAssemblyReference.cache
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumBasics\QAAutomation\obj\Debug\netcoreapp2.1\QAAutomation.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumBasics\QAAutomation\obj\Debug\netcoreapp2.1\QAAutomation.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumBasics\QAAutomation\obj\Debug\netcoreapp2.1\QAAutomation.AssemblyInfo.cs
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumBasics\QAAutomation\bin\Debug\netcoreapp2.1\QAAutomation.runtimeconfig.json
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumBasics\QAAutomation\bin\Debug\netcoreapp2.1\QAAutomation.runtimeconfig.dev.json
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumBasics\QAAutomation\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumBasics\QAAutomation\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumBasics\QAAutomation\bin\Debug\netcoreapp2.1\nunit.engine.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumBasics\QAAutomation\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumBasics\QAAutomation\bin\Debug\netcoreapp2.1\QAAutomation.pdb
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumBasics\QAAutomation\obj\Debug\netcoreapp2.1\QAAutomation.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\HW-SeleniumBasics\QAAutomation\obj\Debug\netcoreapp2.1\QAAutomation.pdb

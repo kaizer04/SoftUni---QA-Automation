@@ -1,0 +1,15 @@
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\FirstSeleniumProject\LiveDemo\bin\Debug\netcoreapp2.1\LiveDemo.deps.json
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\FirstSeleniumProject\LiveDemo\bin\Debug\netcoreapp2.1\LiveDemo.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\FirstSeleniumProject\LiveDemo\obj\Debug\netcoreapp2.1\LiveDemo.csprojAssemblyReference.cache
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\FirstSeleniumProject\LiveDemo\obj\Debug\netcoreapp2.1\LiveDemo.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\FirstSeleniumProject\LiveDemo\obj\Debug\netcoreapp2.1\LiveDemo.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\FirstSeleniumProject\LiveDemo\obj\Debug\netcoreapp2.1\LiveDemo.AssemblyInfo.cs
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\FirstSeleniumProject\LiveDemo\bin\Debug\netcoreapp2.1\LiveDemo.runtimeconfig.json
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\FirstSeleniumProject\LiveDemo\bin\Debug\netcoreapp2.1\LiveDemo.runtimeconfig.dev.json
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\FirstSeleniumProject\LiveDemo\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\FirstSeleniumProject\LiveDemo\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\FirstSeleniumProject\LiveDemo\bin\Debug\netcoreapp2.1\nunit.engine.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\FirstSeleniumProject\LiveDemo\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\FirstSeleniumProject\LiveDemo\bin\Debug\netcoreapp2.1\LiveDemo.pdb
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\FirstSeleniumProject\LiveDemo\obj\Debug\netcoreapp2.1\LiveDemo.dll
+D:\Visual Studio 2017\Projects\SoftUni - QA Automation\FirstSeleniumProject\LiveDemo\obj\Debug\netcoreapp2.1\LiveDemo.pdb
